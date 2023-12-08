@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 30%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://i.imgur.com/wYB0N79.mp4); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/1065770675232583810/1182748682475544666/video_2023-12-08_19-19-42.mp4?ex=6585d38c&is=65735e8c&hm=b5ec60a672115dd6d1f441e38e77e1124374a01d9933c10d97aeae9a813bddb6&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
