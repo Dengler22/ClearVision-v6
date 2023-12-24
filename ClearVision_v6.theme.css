@@ -38,9 +38,9 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 30%; /* app background shading (0 for complete smoothness) [default: 100%] */
-  --background-overlay: rgba(0, 0, 0, 0.3); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://pouch.jumpshare.com/preview/3IK5sojCerj7z_Bktvm--i1vJmDKidqapwWFo82IqHgq6WhxZ4jF_cleVA2AoNvpKNapttmlNtjdIorEbxWO3BcTaKVNtM-GM7hIvlhRj3I); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-shading: 35%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-overlay: rgba(0, 0, 0, 0.4); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+  --background-image: url(https://pouch.jumpshare.com/preview/3IK5sojCerj7z_Bktvm--i1vJmDKidqapwWFo82IqHhwR2PW9Kg1ZtkLAnRWkxynvCj1mdFaNv7IZXIBUHYLB59U6AYwywaq2z8BD_OTWhY); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
