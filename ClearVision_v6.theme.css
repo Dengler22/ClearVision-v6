@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 30%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.3); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(blob:https://giphy.com/2144cdff-2877-4694-82bf-748527ac0426); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://dqg30ah6byc0i.cloudfront.net/m8f5kt%2Fpreview%2F55126851%2Fmain_full.gif?response-content-disposition=inline%3Bfilename%3D%22main_full.gif%22%3B&response-content-type=image%2Fgif&Expires=1703445446&Signature=Z-Gax~ryjQVu3mDMWhICOlJlvAnkcJ2VYvDHeCvi3utdw-3X3~vOi0KYxeqEKp0udKR4uOnhjRWP8ntCV2qgrHQRwjgxaBFbinch5mEmdLtzntHUY2B9K~0UeY10mHmq6eYkiO--C~yWcmGaX14gJC4HBusVWUUTDzlNgsS7A0ceERf4BxXXNqT4TCTT5MlRkcyVJwgRautwtzL0EgHH8tJJN5czgcGkeranLLNx2hWMco0S9aT8niBbkVdlVS2QiD7fz7XWhtw1VPIB6qrktWdml6byLF6KWI~XiTbN~0heIBx-WqAlmsDBP3Kqkr2f~SfllQbjWT35mWExaAM0nQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
