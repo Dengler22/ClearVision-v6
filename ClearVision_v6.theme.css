@@ -16,7 +16,7 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #876a5b; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --main-color: #6b503d; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #b08f6a; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
@@ -38,8 +38,8 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 30%; /* app background shading (0 for complete smoothness) [default: 100%] */
-  --background-overlay: rgba(0, 0, 0, 0.4); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+  --background-shading: 40%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   --background-image: url(https://lh3.googleusercontent.com/pw/AP1GczNDGXtMjbOq7Urrr8QCHjgZ39fXdMKjYZYoHSTruYqRGzqqnr9zpVDNMmpOcoJUGXbkQvo6kP2nzCueIpwd9MD3pfHX-fz0D-trIOgDqoHZMm9JorDRcJmSQd0vWgswca8Rhg2EKUEnDRNQeOnwfmXyAdHSyAgPF8LTt3dO8mD4Ix7BooCT12M2zD2aYKoa-3qfmxd292A7dkKPEA_2bpnzASjIAbVDDixKk2t6TZSJWctoEvecHsaKiIT7uibRmeCbQFO-kaSdPM8cNzGhj1qy3uBdqL_s35MyQFiSF9wG0p02tmLpGnXxgbnXKbWTeq21punu9DCmPEFOTDDmy71PlP8opF1KISfBa3xt4ng-pbsU2M7d-5i9GRdBga_YMi6QDqdJkKVjQcAJCTntaG_8u198je3iKze4wO3PxVXWmuNBGe3EfWJRI2ouXR_8iaXHakruiEJoJhzvkWKWMkvWsoJQWVMaWgy3w0A4fGf31_W-5cRk5atGdc7BAKdqtIQSwsu_iFwte0R4a5cv-YCDbBZHAwVPdry1Mrp0KQUfUh2GqwAqqnV75EO5BeysFu8yzwK3dwXRDgkWmz2S5cHCnJ8F3vqfEuZ6gT9F2D2EbZLH6PGDuc-kQcnZa0dNJQw4w1Un8ACeUeeCzKxO3lzu6YNI3fjvF5lddWJBBRzUuWNFwh0ZNSY9PEImFedTGzkeg5V-st7RQBJxv9pTIgzf1m3P-E5RGFz0K1kRXxu2qPFRCnbeuhd07Dt_mQ80BJqrmvbtJ0VLluWt4e8BOc10IyIClzbJOnUyGIy2-zBHfLQngIHgR2cRqNGhaj5ahqIBMhl6DqkhCyuYvVGuSfMwQjymzGqB18eh_1r-RimBJXCZYdFEkp3zki3uvU3VQ-3opWLFHs_QivxDqGUILC_g6WudgnRUZ1Q7wBxgRcDoWOBMeRUXmOcrdHo=w800-h450-s-no-gm?authuser=0); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: 121%; /* app background size [default: cover] */
